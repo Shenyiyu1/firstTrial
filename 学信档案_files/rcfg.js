@@ -1,0 +1,1 @@
+window.goldlog=(window.goldlog||{});goldlog.cna="e233986f5f8db461f38876c74de6acc6";goldlog.imprintVersion="";
